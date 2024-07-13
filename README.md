@@ -23,7 +23,7 @@ To build a responsive grid section that displays user testimonials.
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://sergiobrandaof.github.io/testimonials-grid/
 
 ## My process
 
